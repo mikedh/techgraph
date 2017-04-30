@@ -94,7 +94,7 @@ for parent in parents:
 	g.add_edge(v=child, **parent)
 ```
 
-![Pancakes](https://raw.github.com/mikedh/techgraph/master/docs/pancakes.svg)
+![Pancakes](https://raw.github.com/mikedh/techgraph/master/docs/pancakes.png)
 
 The maple syrup is optional, and the two edges of the same color represent an OR, so either edge will satisfy the need.
 
